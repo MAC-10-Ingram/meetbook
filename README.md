@@ -27,8 +27,6 @@
 
 ---
 
-![Untitled](/image/Untitled%202.png)
-
 ### 프로젝트 기여도
 
 ERD 설계 : 80%
@@ -40,6 +38,8 @@ API 설계: 50%
 API 및 비즈니스 로직 구현 : 80%
 
 API 문서화 : 100%
+
+![Untitled](/image/Untitled%202.png)
 
 Swagger를 이용한 API 문서
 
